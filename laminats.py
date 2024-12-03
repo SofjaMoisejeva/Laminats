@@ -28,3 +28,7 @@ def aprekinat_laminatu(plaksnes_garums, plaksnes_platums, istabas_garums, istaba
 
 # pārbaude
 print(aprekinat_laminatu(1, 0.5, 3, 2.2))
+istabas garums = float(input("Ievadiet istabas garumu "))
+istabas platums = float(input("Ievadiet istabas platumu "))
+plaksnes garumu = float(input("Ievadiet plaksnes garumu "))
+plaksnes platumu = float(input("Ievadiet plaksnes platumu "))
