@@ -27,4 +27,4 @@ def aprekinat_laminatu(plaksnes_garums, plaksnes_platums, istabas_garums, istaba
     return kopejas_plaksnes
 
 # pārbaude
-print(aprekinat_laminatu(1, .5, 3, 2))
+print(aprekinat_laminatu(1, 0.5, 3, 2.2))
